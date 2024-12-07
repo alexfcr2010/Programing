@@ -6,7 +6,7 @@ This book contains information and analyses for Projects 1, 2, and 3 as part of 
 
 - [Project 1: CO2 emissions per capita in the world in 2020](Proj1.ipynb)
 - [Project 2: Economic growth and energy efficiency worldwide](Proj2.ipynb)
-- [Project 3t: Economic growth and energy efficiency worldwide](Proj3.ipynb)
+- [Project 3: Economic growth and energy efficiency worldwide](Proj3.ipynb)
 
 
 
